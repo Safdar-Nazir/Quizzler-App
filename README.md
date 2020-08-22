@@ -1,4 +1,4 @@
-## Quizzler-App
+# Quizzler-App
 
 
 ## What you will create
